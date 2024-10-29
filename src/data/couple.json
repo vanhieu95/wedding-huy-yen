@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Nguyễn Hoàng Huy",
+    "shortName": "Hoàng Huy",
+    "firstLetter": "H",
+    "description": "Sống chân thành, cái gì cũng biết nhưng không biết “...iều” Ngoài sợ mập ra thì sắp tới sợ thêm cả vợ.",
+    "role": "Chú rể",
+    "image": "couple/groom.jpg",
+    "position": "start",
+    "color": "black",
+    "borderColor": "black"
+  },
+  {
+    "name": "Nguyễn Thị Yến",
+    "shortName": "Nguyễn Yến",
+    "firstLetter": "Y",
+    "description": "Ngoài thông minh xinh xắn, chăm chỉ, yêu chồng thì không có gì nổi bật cả. Tinh thần vẫn là “Lấy chồng không bỏ cuộc chơi”.",
+    "role": "Cô dâu",
+    "image": "couple/bride.jpg",
+    "position": "end",
+    "color": "pink",
+    "borderColor": "pink"
+  }
+]

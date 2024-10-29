@@ -1,0 +1,18 @@
+[
+  {
+    "role": "chú rể",
+    "bank": "Ngân hàng Quân Đội (MB Bank)",
+    "holder": "Nguyễn Hoàng Huy",
+    "number": "6060168863979",
+    "qr": "gift/groom-qr.jpg",
+    "position": "start"
+  },
+  {
+    "role": "cô dâu",
+    "bank": "Ngân hàng Bản Việt (BVBank)",
+    "holder": "Nguyễn Thị Yến",
+    "number": "8007041274106",
+    "qr": "gift/bride-qr.jpg",
+    "position": "end"
+  }
+]
